@@ -1,0 +1,113 @@
+commit 417205818fc2fdb4a8dedad27722dec286e15318
+Author: Kauri Kolehmainen <kaurikolehmainen@gmail.com>
+Date:   Mon Nov 7 22:04:14 2022 +0200
+
+    file1 poistettu ja file2 nimetty file22
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit bd70635c3fd350165d5dd2b2f54515bf75fe9c13
+Author: Kauri Kolehmainen <kaurikolehmainen@gmail.com>
+Date:   Mon Nov 7 21:58:37 2022 +0200
+
+    lisätty file1, file2 ja file3
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit b3d6e459b19a214839dc682ee307e9fb1edd161a
+Author: Kauri Kolehmainen <kaurikolehmainen@gmail.com>
+Date:   Mon Nov 7 21:52:52 2022 +0200
+
+    tehty muutoksia tiedostoihin eka.txt ja kolmas.txt
+
+ eka.txt    | 3 +--
+ kolmas.txt | 4 +++-
+ 2 files changed, 4 insertions(+), 3 deletions(-)
+
+commit ede0d42bad538355d2052c6c5adf8922d593639b
+Author: Kauri Kolehmainen <kaurikolehmainen@gmail.com>
+Date:   Mon Nov 7 21:49:21 2022 +0200
+
+    tiedosto.txt nimettiin uudelleen eka.txt:ksi
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 93d8ff199d50c8d02b8a8049a354c449219f6ab1
+Author: Kauri Kolehmainen <kaurikolehmainen@gmail.com>
+Date:   Mon Nov 7 21:47:55 2022 +0200
+
+    toinen.txt poistettu
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 8d7e223274e8ddf03983d7c4f2e284807d4f9aaf
+Author: Kauri Kolehmainen <kaurikolehmainen@gmail.com>
+Date:   Mon Nov 7 21:44:46 2022 +0200
+
+    poistettu osa tekstistä tiedosto.txt ja lisätty uutta tekstiä
+
+ tiedosto.txt | 5 +++--
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+
+commit b4e8bc79da8d5011ac5fa31592000c922834939d
+Author: Kauri Kolehmainen <kaurikolehmainen@gmail.com>
+Date:   Mon Nov 7 21:42:25 2022 +0200
+
+    paljon tekstiä lisätty tiedosto.txt:hen
+
+ tiedosto.txt | 12 +++++++++++-
+ 1 file changed, 11 insertions(+), 1 deletion(-)
+
+commit fda0b551eaa7990e9a48f45ddd2b313ae8e9c39d
+Author: Kauri Kolehmainen <kaurikolehmainen@gmail.com>
+Date:   Mon Nov 7 21:37:12 2022 +0200
+
+    hakemisto tehty ja jokintiedosto.txt lisätty
+
+ stuff/jokintiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 3e63bd6a9b8f21ed55c46939481e2c37232566e0
+Author: Kauri Kolehmainen <kaurikolehmainen@gmail.com>
+Date:   Mon Nov 7 21:35:07 2022 +0200
+
+    toinen.txt ja kolmas.txt muutettu
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 8c0910bff0214ce5f89ab58da0cb8749a5346c01
+Author: Kauri Kolehmainen <kaurikolehmainen@gmail.com>
+Date:   Mon Nov 7 21:32:16 2022 +0200
+
+    kolmas.txt lisätty
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 10223787ab6e67e3d8b7541c83db4c9cfaf4df4f
+Author: Kauri Kolehmainen <kaurikolehmainen@gmail.com>
+Date:   Mon Nov 7 21:29:59 2022 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit f4f108ae8ad2bfbec4efdfb2f3e40fe0c34c2786
+Author: Kauri Kolehmainen <kaurikolehmainen@gmail.com>
+Date:   Mon Nov 7 21:27:47 2022 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
