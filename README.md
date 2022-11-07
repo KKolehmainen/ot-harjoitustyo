@@ -1,9 +1,9 @@
-#Tässä on pääotsikko
+# Ohjelmistotekniikka, harjoitustyö
 
-##Ja tässä alaotsikko
+## Tehtävät
 
-**Lihavoitua tekstiä**
+### Viikko 1
 
-**Tässä** *vaihtelee* **lihavoitu** ja *kursivoitu* teksti.
+[gitlog.txt](https://github.com/KKolehmainen/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 
->Tämä on lainaus
+[komentorivi.txt](https://github.com/KKolehmainen/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
