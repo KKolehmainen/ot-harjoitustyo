@@ -8,4 +8,4 @@
 
 [komentorivi.txt](https://github.com/KKolehmainen/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
 
-**Tehtävät tehty!**
+*Tehtävät tehty!*
