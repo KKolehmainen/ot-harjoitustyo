@@ -9,3 +9,8 @@
 [komentorivi.txt](https://github.com/KKolehmainen/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
 
 **Tehtävät tehty!**
+
+### Viikko 2
+
+[vaatimusmaarittely.md](https://github.com/KKolehmainen/ot-harjoitustyo/blob/master/dokumentaatio/vaatimusmaarittely.md)
+
