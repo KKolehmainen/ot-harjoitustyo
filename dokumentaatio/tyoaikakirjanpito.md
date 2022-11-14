@@ -1,5 +1,5 @@
 # Työaikakirjanpito
 
-| päivä | aika (h) | mitä tein |
+| Päivä | Aika (h) | Mitä tein |
 | :----:|:----:| :---|
 | 14.11.| 1    | Harjoitustyön ideointi ja vaatimusmäärittely|
