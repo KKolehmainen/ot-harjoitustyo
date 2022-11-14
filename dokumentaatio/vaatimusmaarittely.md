@@ -1,4 +1,4 @@
-### Vaatimusmäärittely
+# Vaatimusmäärittely
 ## Sovelluksen tarkoitus
 Sovelluksella voidaan pelata Blackjack-korttipeliä jakajaa vastaan graafisella käyttöliittymällä.
 
